@@ -394,7 +394,7 @@ wsa://com.apple.android.music
 | UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
 | Uptodown App Store | 4.35 | 11 | ⚠️ | Keeps "analyzing device" on app details page, thus it's unable to download APKs.
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
-| Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
+| Vanced MicroG | 0.2.24.220220 | 13 | ✅ ||
 | Via Browser | 4.3.1 | 11 | ✅
 | Viaplay | 5.48 | 12 | ✅ || Episode playback of at least Nella the Princess Knight works correctly, as does the phone-app-exclusive download functionality.
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
